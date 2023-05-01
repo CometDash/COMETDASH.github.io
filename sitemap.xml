@@ -83,6 +83,13 @@
 
   
   <url>
+    <loc>https://cometdash.github.io/tags/%E5%88%9D%E4%B8%AD/</loc>
+    <lastmod>2023-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://cometdash.github.io/tags/%E5%89%A7%E6%83%85/</loc>
     <lastmod>2023-05-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -97,7 +104,7 @@
   </url>
   
   <url>
-    <loc>https://cometdash.github.io/tags/%E5%88%9D%E4%B8%AD/</loc>
+    <loc>https://cometdash.github.io/tags/%E6%88%98%E5%9C%BA/</loc>
     <lastmod>2023-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -138,24 +145,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://cometdash.github.io/tags/%E6%88%98%E5%9C%BA/</loc>
-    <lastmod>2023-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://cometdash.github.io/categories/FF14/</loc>
+    <loc>https://cometdash.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://cometdash.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://cometdash.github.io/categories/FF14/</loc>
     <lastmod>2023-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
